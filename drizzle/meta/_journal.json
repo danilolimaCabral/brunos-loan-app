@@ -1,0 +1,83 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1762348476703,
+      "tag": "0000_clean_captain_marvel",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1762348520351,
+      "tag": "0001_messy_chronomancer",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1762348896995,
+      "tag": "0002_smooth_unicorn",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1762351214347,
+      "tag": "0003_eager_skullbuster",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1762353265170,
+      "tag": "0004_cool_abomination",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1762354042177,
+      "tag": "0005_overjoyed_snowbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1762562357296,
+      "tag": "0006_pale_phil_sheldon",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1762614251500,
+      "tag": "0007_motionless_black_tom",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1762623989922,
+      "tag": "0008_slimy_ma_gnuci",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1762778518034,
+      "tag": "0009_early_puma",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "5",
+      "when": 1762865507212,
+      "tag": "0010_stale_lord_tyger",
+      "breakpoints": true
+    }
+  ]
+}

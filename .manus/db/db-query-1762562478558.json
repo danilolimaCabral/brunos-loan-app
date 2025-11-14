@@ -1,0 +1,9 @@
+{
+  "query": "INSERT INTO usuarios_sistema (username, senha, nome, email, role, ativo, twoFactorEnabled) \nVALUES ('financeiro', '$2b$10$d3CIl/xzMIs4N/Od/yV62u.dNPW4.hDBRDRuGYqa2tUS7rHF9y8ne', 'Financeiro', 'financeiro@brunosloan.com', 'admin', 1, 0)\nON DUPLICATE KEY UPDATE senha = '$2b$10$d3CIl/xzMIs4N/Od/yV62u.dNPW4.hDBRDRuGYqa2tUS7rHF9y8ne';",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 4GH8MCSqhpmNowN.e273d1a437b5 --database PPjiibGSLJ7udTsXidiq4n --execute INSERT INTO usuarios_sistema (username, senha, nome, email, role, ativo, twoFactorEnabled) \nVALUES ('financeiro', '$2b$10$d3CIl/xzMIs4N/Od/yV62u.dNPW4.hDBRDRuGYqa2tUS7rHF9y8ne', 'Financeiro', 'financeiro@brunosloan.com', 'admin', 1, 0)\nON DUPLICATE KEY UPDATE senha = '$2b$10$d3CIl/xzMIs4N/Od/yV62u.dNPW4.hDBRDRuGYqa2tUS7rHF9y8ne';",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 1186
+}

@@ -1,0 +1,9 @@
+{
+  "query": "UPDATE usuarios_sistema SET senha = '$2b$10$4hDxyE0/HDaR2Vd44feS/ux4eplgEtVpb/AN6hAMZnseNcP5OsMMW' WHERE username = 'financeiro1';",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 4GH8MCSqhpmNowN.e273d1a437b5 --database PPjiibGSLJ7udTsXidiq4n --execute UPDATE usuarios_sistema SET senha = '$2b$10$4hDxyE0/HDaR2Vd44feS/ux4eplgEtVpb/AN6hAMZnseNcP5OsMMW' WHERE username = 'financeiro1';",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 613
+}
